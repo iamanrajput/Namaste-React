@@ -1,7 +1,0 @@
-Important Topics : 
-Props=Props is a special keyword in React that is used for passing data from one component to another.
-
-Whenever we have to pass data dynamically we use Props.
-
-Map Function +
-map() creates a new array from calling a function for every array element.
