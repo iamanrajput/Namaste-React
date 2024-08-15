@@ -16,3 +16,4 @@
  - reduce()
 
  #### Worked on swiggy API 
+We can use CORS Proxy to call api without CORS extension  for that we need to add ```http://corsproxy.io/?``` before api.
