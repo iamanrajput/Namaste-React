@@ -1,4 +1,4 @@
-# Namaste React by Akshay Saini
+# Chapter - 01 - Inception
 
 ## Q: Difference between a `Library and Framework`?
 A `Library` is a collection of pre-written code that provides specific functionalities or features. It is designed to be reused across different projects to save development time and effort.
