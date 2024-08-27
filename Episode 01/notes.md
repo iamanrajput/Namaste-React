@@ -25,4 +25,5 @@ A: `React` is the core library of the React ecosystem. It is a JavaScript librar
 
 `ReactDOM` is a package that provides the integration between React and the DOM (Document Object Model). It serves as the glue that allows React components to interact with the browser's DOM. ReactDOM is specifically designed for web applications, as it handles rendering React components to the HTML DOM. When you want to display React components in the browser, you need ReactDOM to take care of the rendering process. It provides methods like **`ReactDOM.render()`** to attach a React component to a specific HTML element in the DOM.
 
+## 
 Enjoy Learning ⭐
