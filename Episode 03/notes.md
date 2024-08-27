@@ -1,10 +1,11 @@
-# What is JSX?
+# Chapter 03 - Laying the Foundation
 
-## JSX - JavaScript XML (XML - Extensible Markup Language)
-
-JSX is a syntax extension for JavaScript that allows developers to write HTML-like code directly within their JavaScript files.
-
-It is often used with React, a popular JavaScript library for building user interfaces, to create reusable UI components.
+## What is `JSX`?
+- JSX stands for JavaScript XML.
+- JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement() and/or appendChild() methods.
+- JSX makes it easier to write and add HTML in React.
+- JSX converts HTML tags into react elements.
+- JSX is a syntax extension for JavaScript that allows developers to write HTML-like code directly within their JavaScript files.
 
 Many people say JSX is "HTML in JS," but that's not accurate—JSX is a HTML-like syntax.
 
@@ -12,7 +13,7 @@ Many people say JSX is "HTML in JS," but that's not accurate—JSX is a HTML-lik
 
 Earlier, people used to write React code like this:
 
-```javascript
+```
 const heading = React.createElement(
     "h1",
     {id: "heading"},
